@@ -37,7 +37,7 @@ python3 -m pip install requests
 ```
 
 # ⚔️ Usage
-### Input your `hmac_signed_session` cookies inside `cookies.txt`, put your invite inside the tool, & done!
+Input your `hmac_signed_session` cookies inside `cookies.txt`, put your invite inside the tool, & done!
 
 
 # 📋 Credits
